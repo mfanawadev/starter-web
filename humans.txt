@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    phenyo software developer @pt
 
 # THANKS
 
