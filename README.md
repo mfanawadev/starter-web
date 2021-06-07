@@ -14,3 +14,6 @@ Can be done on any webserver or local host.
 Now you can even use a cloud of your choice.
 
 ## How To Contribute 
+
+### Copyright 
+Phenyo's website @ 2021
